@@ -55,6 +55,10 @@ GUI Results
 <br>
 <br>
 
+### Conclusion
+
+Based on the tests done, we can see that there are a lot of tools that can help aid and measure performance speed of an application or website like JMeter and Intellij Profile. And also as we can see, by optimizing code with tricks and principles learnt from previous modules, we can get faster performance and response times. High traffic or a large multiple number of requests as seen with the `/get-all-student` endpoint, can severely affect performance.
+
 ## Reflection
 
 1. 
